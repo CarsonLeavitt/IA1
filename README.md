@@ -17,3 +17,6 @@ CarsonLeavitt
 6. Pull Request Review
 7. Merging Changes
 8. Documentation
+
+# Individual Assignment 2
+IA2 is also tracked.
